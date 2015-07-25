@@ -1,0 +1,15 @@
+one:
+  follower: michael
+  followed: lana
+
+two:
+  follower: sowji
+  followed: mallory
+
+three:
+  follower: sowji
+  followed: michael
+
+four:
+  follower: sowji
+  followed: michael
